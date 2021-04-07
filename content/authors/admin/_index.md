@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am Vamsi Nallapareddy, a final year Computer Science undergraduate student from [BITS Pilani - Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/). I am currently doing my Bachelor's Thesis at the [Orengo Laboratory](http://orengogroup.info/) under the supervision of [Prof. Christine Orengo](https://www.ucl.ac.uk/orengo-group/people/prof-christine-orengo) at [University College London](https://www.ucl.ac.uk/).  
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
