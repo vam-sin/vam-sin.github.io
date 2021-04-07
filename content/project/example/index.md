@@ -30,7 +30,6 @@ url_video: ""
 slides: example
 ---
 
----
 title: Example Project 2
 summary: An example of using the in-built project page.
 tags:
