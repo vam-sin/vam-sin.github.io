@@ -28,9 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning
+    tag: DL
   - name: Reinforcement Learning
-    tag: Reinforcement Learning
+    tag: RL
+  - name: Computational Biology
+    tag: CB
   - name: Other
     tag: Demo
 
