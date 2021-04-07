@@ -6,12 +6,13 @@ title: "DeepCys: Structure‐based multiple cysteine function prediction method 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Shubham Bogam
+- Himaja Devarakonda
+- Shubham Paliwal
+- Debashree Bandyopadhyay
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
