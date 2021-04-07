@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2017-05-01"
   description: NTSE is the most prestigious scholarship awarded by the Government of India at the high school level.
-  organization: edX
+  organization: NCERT, Government of India
   organization_url: https://ncert.nic.in/
   title: National Talent Search Examination (NTSE)
   url: https://ncert.nic.in/national-talent-examination.php
