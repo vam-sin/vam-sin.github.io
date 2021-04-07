@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "DeepCys: Structure‐based multiple cysteine function prediction method trained on deep neural network: Case study on domains of unknown functions belonging to COX2 domains"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
