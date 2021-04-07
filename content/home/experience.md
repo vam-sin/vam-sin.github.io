@@ -22,24 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Visiting Researcher
+    company: University College London
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: London, the UK
+    date_start: '2021-01-04'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Projects:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Classification of protein sequences into Structurally Similar Groups (SSGs) using the data from CATH v4.3.0
+        * Prediction of protein melting point using protein sequences from the BRENDA database
         
-  - title: Professor
-    company: University X
+  - title: Research Assistant
+    company: SciLifeLab | Stockholm University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Stockholm, Sweden
+    date_start: '2020-06-15'
+    date_end: '2020-11-30'
+    description: Designed deep learning models to predict inter-residue distances in a protein using features extracted from the Multiple Sequence Alignment (MSA)
 ---
