@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Vamsi Nallapareddy # Website name
 baseurl: 'https://vam-sin.netlify.app/' # Website URL
 copyright: '© 2021 Vamsi Nallapareddy' # Footer text, e.g. '© {year} Me'
 
