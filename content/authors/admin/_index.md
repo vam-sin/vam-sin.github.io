@@ -14,26 +14,23 @@ organizations:
   url: https://www.bits-pilani.ac.in/hyderabad/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, and computational biology
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Biology
+- Deep Learning
+- Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computational Biology
+    institution: Carnegie Mellon University
+    year: 2021
+  - course: BE in Computer Science
+    institution: BITS Pilani - Hyderabad
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
