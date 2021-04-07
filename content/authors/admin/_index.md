@@ -67,8 +67,8 @@ email: ""
 highlight_name: false
 ---
 
-Hello! I am Vamsi Nallapareddy, a final year Computer Science undergraduate student from [BITS Pilani - Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/). I am currently doing my Bachelor's Thesis at the [Orengo Laboratory](http://orengogroup.info/) under the supervision of [Prof. Christine Orengo](https://www.ucl.ac.uk/orengo-group/people/prof-christine-orengo) at [University College London](https://www.ucl.ac.uk/).  
+Hello! I am Vamsi Nallapareddy, a final year Computer Science undergraduate student from [BITS Pilani - Hyderabad Campus](https://www.bits-pilani.ac.in/hyderabad/). I am currently doing my Bachelor's Thesis at the [Orengo Laboratory](http://orengogroup.info/) under the supervision of [Prof. Christine Orengo](https://www.ucl.ac.uk/orengo-group/people/prof-christine-orengo) at [University College London](https://www.ucl.ac.uk/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have taken up multiple projects during the course of my bachelor's degree in different domains such as Computational Biology, Deep Learning, Computer Vision, Natural Language Processing, and Reinforcement Learning. Exploring these different fields has helped me find a passion for the application of deep learning techniques to learn more from biological data. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
