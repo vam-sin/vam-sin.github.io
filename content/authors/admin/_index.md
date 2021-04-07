@@ -27,10 +27,10 @@ education:
   courses:
   - course: MS in Computational Biology
     institution: Carnegie Mellon University
-    year: 2021
+    year: 2023
   - course: BE in Computer Science
     institution: BITS Pilani - Hyderabad
-    year: 2017
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
