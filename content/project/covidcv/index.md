@@ -1,5 +1,5 @@
 ---
-title: COVID-19 diagnosis 
+title: COVID-19 Diagnosis 
 summary: Designed an deep learning model to diagnose COVID-19 from Chest X-rays 
 tags:
 - DL
