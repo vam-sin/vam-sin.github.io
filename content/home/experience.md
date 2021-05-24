@@ -28,8 +28,8 @@ experience:
     location: London, the UK
     date_start: '2021-06-01'
     date_end: ''
-    description: |2-
-        Supervisor - Prof. Christine Orengo
+    description: |3-
+        Supervisor: Prof. Christine Orengo
         Projects:
             
         * Classification of new proteins deposited into the Protein Data Bank into CATH superfamilies [In collaboration with Dr. Sameer Velankar's Lab, EMBL-EBI & Prof. Burkhard Rost's Lab, Technical University Munich]
@@ -41,7 +41,7 @@ experience:
     location: London, the UK
     date_start: '2021-01-04'
     date_end: '2021-05-31'
-    description: |2-
+    description: |3-
         Supervisor: Prof. Christine Orengo
         Projects:
         
@@ -54,7 +54,7 @@ experience:
     location: Stockholm, Sweden
     date_start: '2020-06-15'
     date_end: '2020-11-30'
-    description: 
+    description: |2-
     Supervisor: Prof. Arne Elofsson
     Project: Development of deep learning models to predict inter-residue distances in a protein using features extracted from the Multiple Sequence Alignment (MSA)
 
@@ -64,7 +64,7 @@ experience:
     location: Ljubljana, Slovenia
     date_start: '2020-06-15'
     date_end: '2020-11-30'
-    description: 
+    description: |2-
     Supervisor: Prof. Peter Peer
     Project: Designing a deep learning based model to diagnose COVID-19 from Chest X-Ray (CXR) data 
 
@@ -74,7 +74,7 @@ experience:
     location: Pittsburgh, the USA
     date_start: '2020-07-15'
     date_end: '2020-09-30'
-    description: 
+    description: |2-
     Supervisor: Prof. Min Xu
     Project: Studying Computer Vision techniques to classify biological molecules in a Cryo-ET tomogram
 
@@ -84,7 +84,7 @@ experience:
     location: Hyderabad, India
     date_start: '2020-05-15'
     date_end: '2020-06-30'
-    description: 
+    description: |2-
     Supervisor: Prof. Vinod P.K.
     Project: Application of Graph Convolutional Networks for drug repurposing
 
@@ -94,7 +94,7 @@ experience:
     location: New Delhi, India
     date_start: '2019-05-15'
     date_end: '2019-07-30'
-    description: 
+    description: |2-
     Supervisor: Dr. Debasis Das
     Project: Identification of forgeries in scientific images using deep learning techniques
 ---
