@@ -44,6 +44,7 @@ experience:
     date_end: '2021-05-31'
     description: |2-
         Supervisor: Prof. Christine Orengo
+        
         Projects:
         
         * Classification of protein sequences into Structurally Similar Groups (SSGs) using the data from CATH v4.3.0 [In Collaboration with Prof. Burkhard Rost's Lab, Technical University Munich]
@@ -56,8 +57,9 @@ experience:
     date_start: '2020-06-15'
     date_end: '2020-11-30'
     description: |2-
-    Supervisor: Prof. Arne Elofsson
-    Project: Development of deep learning models to predict inter-residue distances in a protein using features extracted from the Multiple Sequence Alignment (MSA)
+        Supervisor: Prof. Arne Elofsson
+    
+        Project: Development of deep learning models to predict inter-residue distances in a protein using features extracted from the Multiple Sequence Alignment (MSA)
 
   - title: Research Assistant
     company: University of Ljubljana
@@ -66,8 +68,9 @@ experience:
     date_start: '2020-06-15'
     date_end: '2020-11-30'
     description: |2-
-    Supervisor: Prof. Peter Peer
-    Project: Designing a deep learning based model to diagnose COVID-19 from Chest X-Ray (CXR) data 
+        Supervisor: Prof. Peter Peer
+        
+        Project: Designing a deep learning based model to diagnose COVID-19 from Chest X-Ray (CXR) data 
 
   - title: Research Intern
     company: Carnegie Mellon University
@@ -76,8 +79,9 @@ experience:
     date_start: '2020-07-15'
     date_end: '2020-09-30'
     description: |2-
-    Supervisor: Prof. Min Xu
-    Project: Studying Computer Vision techniques to classify biological molecules in a Cryo-ET tomogram
+        Supervisor: Prof. Min Xu
+        
+        Project: Studying Computer Vision techniques to classify biological molecules in a Cryo-ET tomogram
 
   - title: Research Intern
     company: International Institute of Information Technology Hyderabad
@@ -86,8 +90,9 @@ experience:
     date_start: '2020-05-15'
     date_end: '2020-06-30'
     description: |2-
-    Supervisor: Prof. Vinod P.K.
-    Project: Application of Graph Convolutional Networks for drug repurposing
+        Supervisor: Prof. Vinod P.K.
+        
+        Project: Application of Graph Convolutional Networks for drug repurposing
 
   - title: Research Intern
     company: CSIR - Institute of Genomics and Integrative Biology
@@ -96,6 +101,7 @@ experience:
     date_start: '2019-05-15'
     date_end: '2019-07-30'
     description: |2-
-    Supervisor: Dr. Debasis Das
-    Project: Identification of forgeries in scientific images using deep learning techniques
+        Supervisor: Dr. Debasis Das
+        
+        Project: Identification of forgeries in scientific images using deep learning techniques
 ---
