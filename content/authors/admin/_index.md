@@ -68,4 +68,4 @@ I worked on multiple projects during the course of my bachelor's degree in diffe
 
 Apart from my academic work, I like to read books, design, and write. 
 
-I am actively looking for PhD opportunities starting in the Fall of 2022. Please feel free to get in touch with me if you want to have a chat! 
+I am actively looking for Ph.D. opportunities starting in the Fall of 2022. Please feel free to get in touch with me if you want to have a chat! 
