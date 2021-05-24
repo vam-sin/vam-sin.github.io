@@ -28,8 +28,9 @@ experience:
     location: London, the UK
     date_start: '2021-06-01'
     date_end: ''
-    description: |3-
+    description: |2-
         Supervisor: Prof. Christine Orengo
+
         Projects:
             
         * Classification of new proteins deposited into the Protein Data Bank into CATH superfamilies [In collaboration with Dr. Sameer Velankar's Lab, EMBL-EBI & Prof. Burkhard Rost's Lab, Technical University Munich]
@@ -41,7 +42,7 @@ experience:
     location: London, the UK
     date_start: '2021-01-04'
     date_end: '2021-05-31'
-    description: |3-
+    description: |2-
         Supervisor: Prof. Christine Orengo
         Projects:
         
