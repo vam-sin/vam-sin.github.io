@@ -31,7 +31,7 @@ item:
     * Participated in the Computer Vision Track
   organization: Google AI India
   organization_url: https://sites.google.com/view/aisummerschool2020/home
-  title: Google AI India Summer School Attendee
+  title: Machine Learning Summer School Attendee
   url: ""
 - certificate_url: 
   date_end: ""
