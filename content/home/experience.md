@@ -22,7 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Researcher
+    - title: Visiting Researcher
+        company: University College London
+        company_url: ''
+        location: London, the UK
+        date_start: '2021-01-04'
+        date_end: ''
+        description: |2-
+            Projects:
+            
+            * Classification of protein sequences into Structurally Similar Groups (SSGs) using the data from CATH v4.3.0
+            * Prediction of protein melting point using protein sequences from the BRENDA database
+    title: Visiting Researcher
     company: University College London
     company_url: ''
     location: London, the UK

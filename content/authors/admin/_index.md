@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BE in Computer Science
+  - course: B.E. in Computer Science
     institution: BITS Pilani - Hyderabad
     year: 2021
 
