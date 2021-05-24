@@ -45,7 +45,7 @@ item:
   url: https://ncert.nic.in/national-talent-examination.php
 - certificate_url: 
   date_end: ""
-  date_start: "2017-02-01"
+  date_start: "2020-02-01"
   description: |2-
     * Represented the team from BITS Pilani, Hyderabad Campus and competed with teams from all across India
     * Developed a Machine Learning based solution for predictive maintenance for machines.
