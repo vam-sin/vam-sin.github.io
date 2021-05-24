@@ -40,9 +40,11 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Link
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3529871
+- name: Poster
+  url: https://drive.google.com/file/d/1z6QIdfIAMiC1MERSUjVH2RswaIDj6rpB/view
 
 url_pdf: ''
 url_code: ''
@@ -65,15 +67,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
