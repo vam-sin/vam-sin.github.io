@@ -49,7 +49,7 @@ item:
   description: |2-
     * Represented the team from BITS Pilani, Hyderabad Campus and competed with teams from all across India
     * Developed a Machine Learning based solution for predictive maintenance for machines.
-  organization: NCERT, Government of India
+  organization: Innovaptive 
   organization_url: https://www.innovapptive.com/
   title: 1st Runner Up at InnoHack 7.0 Pan India Hackathon
   url: 
