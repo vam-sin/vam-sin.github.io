@@ -41,8 +41,6 @@ publication_short: In *IEEE BIBM 2020*
 
 abstract: We propose an efficient method for simulating a cryo-Electron Tomography (cryo-ET) image of a target macro-molecule with several neighbor macromolecules packed to achieve a realistic crowded cytoplasm content. The simulated results are subtomograms with corresponding noise-free 3D density maps and pre-specified labels (PDB ID, center locations, and orientations) to assist bioimage analysis. They can serve as benchmark datasets for testing developing cryo-ET analysis algorithms and as training datasets with readily available ground truth labels for learning neural network models. The COVID-19 pandemic has sparked a global health crisis that severely impacting lives worldwide. As an important application, we simulated the scene of SARS-CoV-2 interacting with the host cell. The simulated cryo-ET images clearly showed the binding domain of the virus and the host cell to facilitate the research of SARS-CoV-2’ infection. We also trained two different classification models to demonstrate that our simulated cryo-ET data is able to assist the cryo-ET analysis task and to validate the performance between different methods.
 
-Keywords- Cryo-Electron Tomogram, Macromolecular Crowding, Intercelluar Simulation, SARS-CoV-2 Simulation
-
 # Summary. An optional shortened abstract.
 summary: 
 
