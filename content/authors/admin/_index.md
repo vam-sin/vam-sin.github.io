@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Interests: Computational Biology, Bioinformatics, Deep Learning, and Reinforcement Learning
+bio: "Research Interests: Computational Biology, Bioinformatics, Deep Learning, and Reinforcement Learning"
 
 # Interests to show in About widget
 interests:
