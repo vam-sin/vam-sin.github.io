@@ -41,7 +41,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Link
+- name: Abstract
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3529871
 - name: Poster
   url: https://drive.google.com/file/d/1z6QIdfIAMiC1MERSUjVH2RswaIDj6rpB/view

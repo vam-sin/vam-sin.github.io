@@ -51,7 +51,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Link
+- name: Manuscript
   url: https://www.computer.org/csdl/proceedings-article/bibm/2020/09313185/1qmfUw4iPgA
 
 url_pdf: ''
