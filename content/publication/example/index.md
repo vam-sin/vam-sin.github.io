@@ -46,9 +46,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Manuscript
+  url: https://onlinelibrary.wiley.com/doi/10.1002/prot.26056
 
 url_pdf: ''
 url_code: ''
