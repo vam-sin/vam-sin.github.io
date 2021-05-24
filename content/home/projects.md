@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Computational Biology
+    tag: CB
   - name: Deep Learning
     tag: DL
   - name: Reinforcement Learning
     tag: RL
-  - name: Computational Biology
-    tag: CB
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
