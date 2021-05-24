@@ -33,8 +33,6 @@ content:
     tag: RL
   - name: Computational Biology
     tag: CB
-  - name: Other
-    tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
