@@ -22,17 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: Research Assistant
-        company: University College London
-        company_url: ''
-        location: London, the UK
-        date_start: '2021-06-01'
-        date_end: ''
-        description: |2-
-            Projects:
+  - title: Research Assistant
+    company: University College London
+    company_url: ''
+    location: London, the UK
+    date_start: '2021-06-01'
+    date_end: ''
+    description: |2-
+        Projects:
             
-            * Classification of new proteins deposited into the Protein Data Bank into CATH superfamilies [In collaboration with Dr. Sameer Velankar's Lab, EMBL-EBI & Prof. Burkhard Rost's Lab, Technical University Munich]
-            * Predictor for specific enzyme families such as PETases and TTS Enzymes [In collaboration with Prof. Janet Thornton's Lab, EMBL-EBI & Prof. Anne Osbourn's Lab, the John Innes Institute]
+        * Classification of new proteins deposited into the Protein Data Bank into CATH superfamilies [In collaboration with Dr. Sameer Velankar's Lab, EMBL-EBI & Prof. Burkhard Rost's Lab, Technical University Munich]
+        * Predictor for specific enzyme families such as PETases and TTS Enzymes [In collaboration with Prof. Janet Thornton's Lab, EMBL-EBI & Prof. Anne Osbourn's Lab, the John Innes Institute]
+        
   - title: Visiting Researcher
     company: University College London
     company_url: ''
