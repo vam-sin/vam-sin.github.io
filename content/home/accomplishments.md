@@ -31,7 +31,7 @@ item:
     * Participated in the Computer Vision Track
   organization: Google AI India
   organization_url: https://sites.google.com/view/aisummerschool2020/home
-  title: Google AI India Summer School
+  title: Google AI India Summer School Attendee
   url: ""
 - certificate_url: 
   date_end: ""
@@ -41,6 +41,16 @@ item:
     * This scholarship provides a monthly stipend to the recipient till the end of their education.
   organization: NCERT, Government of India
   organization_url: https://ncert.nic.in/
-  title: National Talent Search Examination (NTSE)
+  title: National Talent Search Examination (NTSE) Scholar 
   url: https://ncert.nic.in/national-talent-examination.php
+- certificate_url: 
+  date_end: ""
+  date_start: "2017-02-01"
+  description: |2-
+    * Represented the team from BITS Pilani, Hyderabad Campus and competed with teams from all across India
+    * Developed a Machine Learning based solution for predictive maintenance for machines.
+  organization: NCERT, Government of India
+  organization_url: https://www.innovapptive.com/
+  title: 1st Runner Up at InnoHack 7.0 Pan India Hackathon
+  url: 
 ---
