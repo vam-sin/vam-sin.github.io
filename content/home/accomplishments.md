@@ -26,7 +26,9 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-08-01"
-  description: "Participated in the first ever summer school by Google AI India, in the Computer Vision track."
+  description: |2-
+    * One among 100 students selected nationwide to take part in the Google AI India Machine Learning Summer School.
+    * Participated in the Computer Vision Track
   organization: Google AI India
   organization_url: https://sites.google.com/view/aisummerschool2020/home
   title: Google AI India Summer School
@@ -34,7 +36,9 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2017-05-01"
-  description: NTSE is the most prestigious scholarship awarded by the Government of India at the high school level.
+  description: |2-
+    * Recipient of the prestigious National Talent Search Examination (NTSE) scholarship provided by the Government of India
+    * This scholarship provides a monthly stipend to the recipient till the end of their education.
   organization: NCERT, Government of India
   organization_url: https://ncert.nic.in/
   title: National Talent Search Examination (NTSE)
