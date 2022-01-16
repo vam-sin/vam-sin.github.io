@@ -25,13 +25,12 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2020-08-01"
+  date_start: "2017-08-01"
   description: |2-
-    * One among 100 students selected nationwide to take part in the Google AI India Machine Learning Summer School.
-    * Participated in the Computer Vision Track
-  organization: Google AI India
-  organization_url: https://sites.google.com/view/aisummerschool2020/home
-  title: Machine Learning Summer School Attendee
+    * Awarded for being in the top 1% of my batch.
+  organization: BITS Pilani
+  organization_url: https://www.bits-pilani.ac.in/hyderabad/
+  title: BITS Pilani Merit Scholarship
   url: ""
 - certificate_url: 
   date_end: ""
