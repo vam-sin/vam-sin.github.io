@@ -14,14 +14,13 @@ organizations:
   url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Research Interests: Computational Biology, Bioinformatics, Deep Learning, and Reinforcement Learning"
+bio: "Research Interests: Computational Biology, Bioinformatics, and Deep Learning"
 
 # Interests to show in About widget
 interests:
 - Computational Biology
 - Bioinformatics
 - Deep Learning
-- Reinforcement Learning
 
 # Education to show in About widget
 education:
@@ -37,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ucbtvna@ucl.ac.uk'
+  link: 'mailto:v.nallapareddy@ucl.ac.uk'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3iBwoSUAAAAJ&hl=en
