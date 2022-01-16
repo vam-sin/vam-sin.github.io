@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: University College London
-    company_url: 'https://www.ucl.ac.uk/'
+    company: ISMB, University College London
+    company_url: 'https://www.cathdb.info/'
     location: London, the UK
     date_start: '2021-06-01'
     date_end: ''
@@ -33,12 +33,12 @@ experience:
 
         Projects:
             
-        * Classification of new proteins deposited into the Protein Data Bank into CATH superfamilies [In collaboration with Dr. Sameer Velankar's Lab, EMBL-EBI & Prof. Burkhard Rost's Lab, Technical University Munich]
-        * Predictor for specific enzyme families such as PETases and TTS Enzymes [In collaboration with Prof. Janet Thornton's Lab, EMBL-EBI & Prof. Anne Osbourn's Lab, the John Innes Institute]
+        * CATHe: Remote homologue detection using embeddings from protein langauge models [In collaboration with Dr. Sameer Velankar's Lab, EMBL-EBI & Prof. Burkhard Rost's Lab, Technical University Munich]
+        * Study of TriTerperne Synthase (TTS) enzymes [In collaboration with Prof. Janet Thornton's Lab, EMBL-EBI & Prof. Anne Osbourn's Lab, the John Innes Institute]
 
-  - title: Visiting Researcher
-    company: University College London
-    company_url: 'https://www.ucl.ac.uk/'
+  - title: Bachelor's Thesis Student
+    company: ISMB, University College London
+    company_url: 'https://www.cathdb.info/'
     location: London, the UK
     date_start: '2021-01-04'
     date_end: '2021-05-31'
@@ -47,23 +47,23 @@ experience:
         
         Projects:
         
-        * Classification of protein sequences into Structurally Similar Groups (SSGs) using the data from CATH v4.3.0 [In Collaboration with Prof. Burkhard Rost's Lab, Technical University Munich]
-        * Prediction of protein melting point using protein sequences from the BRENDA database [In collaboration with Prof. Florian Hollfelder's Lab, Cambridge University]
+        * Deep learning based classification of protein sequences into CATH Structurally Similar Groups (SSGs) [In Collaboration with Prof. Burkhard Rost's Lab, Technical University Munich]
+        * Protein melting point prediction using deep learning [In collaboration with Prof. Florian Hollfelder's Lab, Cambridge University]
         
   - title: Research Assistant
     company: SciLifeLab | Stockholm University
-    company_url: 'https://www.su.se/cmlink/stockholm-university'
+    company_url: 'http://bioinfo.se/'
     location: Stockholm, Sweden
     date_start: '2020-06-15'
     date_end: '2020-11-30'
     description: |2-
         Supervisor: Prof. Arne Elofsson
     
-        Project: Development of deep learning models to predict inter-residue distances in a protein using features extracted from the Multiple Sequence Alignment (MSA)
+        Project: Protein inter-residue distance prediction using features derived from Multiple Sequence Alignments (MSA)
 
   - title: Research Assistant
     company: University of Ljubljana
-    company_url: 'https://www.uni-lj.si/university/'
+    company_url: 'https://fri.uni-lj.si/en/laboratory/lrv'
     location: Ljubljana, Slovenia
     date_start: '2020-06-15'
     date_end: '2020-11-30'
@@ -74,7 +74,7 @@ experience:
 
   - title: Research Intern
     company: Carnegie Mellon University
-    company_url: 'https://www.cmu.edu/'
+    company_url: 'https://xulabs.github.io/'
     location: Pittsburgh, the USA
     date_start: '2020-07-15'
     date_end: '2020-09-30'
@@ -85,7 +85,7 @@ experience:
 
   - title: Research Intern
     company: International Institute of Information Technology Hyderabad
-    company_url: 'https://www.iiit.ac.in/'
+    company_url: 'https://faculty.iiit.ac.in/~vinod.pk/index.html'
     location: Hyderabad, India
     date_start: '2020-05-15'
     date_end: '2020-06-30'
