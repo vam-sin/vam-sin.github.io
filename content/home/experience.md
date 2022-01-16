@@ -82,26 +82,4 @@ experience:
         Supervisor: Prof. Min Xu
         
         Project: Studying Computer Vision techniques to classify biological molecules in a Cryo-ET tomogram
-
-  - title: Research Intern
-    company: International Institute of Information Technology Hyderabad
-    company_url: 'https://faculty.iiit.ac.in/~vinod.pk/index.html'
-    location: Hyderabad, India
-    date_start: '2020-05-15'
-    date_end: '2020-06-30'
-    description: |2-
-        Supervisor: Prof. Vinod P.K.
-        
-        Project: Application of Graph Convolutional Networks for drug repurposing
-
-  - title: Research Intern
-    company: CSIR - Institute of Genomics and Integrative Biology
-    company_url: 'https://www.igib.res.in/'
-    location: New Delhi, India
-    date_start: '2019-05-15'
-    date_end: '2019-07-30'
-    description: |2-
-        Supervisor: Dr. Debasis Das
-        
-        Project: Identification of forgeries in scientific images using deep learning techniques
 ---
